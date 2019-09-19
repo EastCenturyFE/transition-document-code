@@ -4,7 +4,7 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
-  host: '192.168.10.150',
+  host: '192.168.10.149',
   port: 5001,
   base: '/transition-document-code/',
   themeConfig: {
@@ -25,7 +25,7 @@ module.exports = {
       },
       {
         text: 'GitHub',
-        link: 'https://github.com/jiaming743/transition'
+        link: 'https://github.com/east-century-fex/transition.git'
       }
     ],
     sidebar: {

@@ -10,5 +10,5 @@ features:
   details: 能够使用绘制工具，定制缓动曲线
 - title: 灵动多变
   details: 可以使用多段贝塞尔曲线描述动效，复杂动效也可得心应手
-footer: MIT Licensed | Copyright © 2018-present JiaMing
+footer: MIT Licensed | Copyright © 2018-present East-Century
 ---
