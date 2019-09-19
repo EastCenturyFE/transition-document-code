@@ -6,6 +6,7 @@ module.exports = {
   ],
   host: '192.168.10.150',
   port: 5001,
+  base: '/transition-document-code/',
   themeConfig: {
     selectText: '选择语言',
     label: '简体中文',
